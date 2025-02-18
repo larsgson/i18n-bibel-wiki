@@ -1,7 +1,4 @@
 export const deText = {
-// Channel Titles
-
-export const deChTitles = {
   "Gen.1": "Schöpfung",
   "Gen.2": "Die Schöpfung, Zusammenfassung",
   "Gen.3": "Sündenfall",
@@ -954,9 +951,6 @@ export const deChTitles = {
   "Rev.20": "Der große weiße Thron",
   "Rev.21": "Der neue Himmel, die neue Erde und das neue Jerusalem",
   "Rev.22": "Ewigkeit",
-}
-
-const deLocList = {
   ChVerseDelimiter: ":",
   Chapter: "Kapitel",
   newPassage: "New Passage",
@@ -1523,9 +1517,4 @@ Wie antwortest du Jesus auf die Frage: „Liebst du mich?“
 Welche Aufgaben hast du durch deine Liebe zu Jesus übernommen?`,
 "John.21.20.descr": `Petrus fragt nach dem Schicksal des Jüngers, den Jesus liebte (21,21). Auch wir stehen in Gefahr, dass wir uns in unserem Glaubensleben mit anderen vergleichen. 
 Was bedeutet die Aufforderung von Jesus: "Folge du mir nach." (21,22) für dich?`
-}
-
-// enBibleBookList 
-// enNavTitles 
-// enAdditionalText
 }
