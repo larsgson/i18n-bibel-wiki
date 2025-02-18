@@ -1,5 +1,5 @@
 {
-  "name": "@bibel-wiki/de",
+  "name": "@bibel-wiki/i18n",
   "version": "0.0.1-beta",
   "description": "",
   "main": "dist/index.js",

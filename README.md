@@ -1,4 +1,4 @@
-# de.bible.wiki
+# i18n.bible.wiki
 
 ## Requirements
 
