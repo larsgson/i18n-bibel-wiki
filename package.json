@@ -1,6 +1,6 @@
 {
   "name": "@bibel-wiki/i18n",
-  "version": "0.0.3-beta",
+  "version": "0.0.4-beta",
   "description": "",
   "main": "dist/index.js",
   "files": [
